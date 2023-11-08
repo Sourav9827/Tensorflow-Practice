@@ -167,5 +167,3 @@ ten_percent_model_checkpoints_weights/
 tensorflow_hub/
 transfer_learning/
 universal-sentence-encoder_4/
-
-*.h5
